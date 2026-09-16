@@ -1,0 +1,20 @@
+/* Change the background color of the page */
+body {
+    background-color: lightblue;
+}
+
+/* Change the text color */
+h1 {
+    color: darkblue;
+}
+
+/* Change the paragraph color */
+p {
+    color: green;
+}
+
+/* Add a background color to a box */
+.box {
+    background-color: yellow;
+    color: black;
+}
